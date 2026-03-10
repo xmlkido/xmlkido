@@ -1,0 +1,41 @@
+{
+  "_meta": {
+    "tool": "CopyLayer v1.0",
+    "timestamp": "2026-03-10T11:06:37.081Z",
+    "source_url": "https://www.kaito.ai/studio",
+    "base_branch": "main",
+    "change_count": 5
+  },
+  "changes": [
+    {
+      "path": "div.flex[2] > div.group/sidebar-wrapper[0] > main.bg-background[1] > div.h-fit[0] > div.relative[2] > div.relative[2] > div.space-y-4[3] > a.relative[0] > div.relative[1] > div.flex[1] > div.flex[0] > span.flex[0]",
+      "element": "span",
+      "original": "Payment Structure",
+      "updated": "reward structure"
+    },
+    {
+      "path": "div.flex[2] > div.group/sidebar-wrapper[0] > main.bg-background[1] > div.h-fit[0] > div.relative[2] > div.relative[2] > div.space-y-4[3] > a.relative[0] > div.relative[1] > div.flex[1] > div.flex[2] > span.flex[0]",
+      "element": "span",
+      "original": "Service Duration",
+      "updated": "Service Durationssss"
+    },
+    {
+      "path": "div.flex[2] > div.group/sidebar-wrapper[0] > main.bg-background[1] > div.h-fit[0] > div.relative[2] > div.relative[2] > div.space-y-4[3] > a.relative[0] > div.relative[1] > div.flex[1] > div.flex[1] > span.flex[0]",
+      "element": "span",
+      "original": "Service Fee",
+      "updated": "Service Fee1111"
+    },
+    {
+      "path": "div.flex[2] > div.group/sidebar-wrapper[0] > main.bg-background[1] > div.h-fit[0] > div.relative[2] > div.relative[2] > div.space-y-4[3] > a.relative[1] > div.relative[1] > div.flex[0] > span.shrink-0[1] > span.text-white/60[0]",
+      "element": "span",
+      "original": "Application Period:",
+      "updated": "Application Period open:"
+    },
+    {
+      "path": "div.flex[2] > div.group/sidebar-wrapper[0] > main.bg-background[1] > div.h-fit[0] > div.relative[2] > div.relative[2] > div.mb-6[2] > div.flex[0] > div.flex[0] > button.relative[2] > span.capitalize[0]",
+      "element": "span",
+      "original": "Applications Closed",
+      "updated": "Applications Closed on???"
+    }
+  ]
+}
